@@ -1,7 +1,5 @@
 //Insercao, Remocao e Vizualizacao na ABB
-//Definicao de Nos Folhas, Estritamente Binaria, Nivel de cada No, Cheia e Completa
-//Autor: Carlos Eduardo da Silva Sotolani
-//Data: Setembro/2005
+//Definicao de Nos Folhas
 program Arvore;
 
 uses
